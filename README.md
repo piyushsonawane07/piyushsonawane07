@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+<img src="./background.png" width="150" title="Image 1"> 
 <!--
 **PiyushSonawane1302/PiyushSonawane1302** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
