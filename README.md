@@ -3,7 +3,7 @@
 <h1 align="center">Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"></h1>
 <h3 align="center">I'm <b>Piyush</b>, a Third Year I.T Engineer from India.</h3>
 
-<img src="./igif.gif"  align="center" width="550" title="Image 1"> 
+<img src="./igif.gif" align="center" width="550" title="Image 1"> 
 
 ## 🙋‍♂️ About Me
 
