@@ -1,7 +1,7 @@
 <!-- <p><a href="#"><img width="100%" height="auto" src="https://ibb.co/yp32jC4" height="175px"/></a></p> -->
 
 <h1 align="center">Hey There <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">!</h1>
-<h3 align="center">I'm <b>Piyush</b>, a Third Year I.T Engineer from India.</h3>
+<h3 align="center">I'm <b>Piyush</b>, a Software Engineer from India.</h3>
 
 <p align="center"><img src="./igif.gif" width="450" title="Image 1"></p> 
 
