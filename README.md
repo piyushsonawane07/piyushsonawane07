@@ -11,13 +11,13 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.** 
   
-- 👾 **Blockchain** Enthusiast.
+- 👾 **AI** Enthusiast.
 
 - 👯 Thriving 💪 **MERN STACK DEV** & looking to collaborate🤝 on **OpenSource Projects**
 
 - 📫 Reach me here ➡ **piyushsonawane4455@gmail.com**
 
-- ⚡ Fun fact **I love gaming👾 and love reading📚.**
+- ⚡ Fun fact **I love Travelling👾 and love reading📚.**
 
 ## 🚀 Languages and Tools:
 
